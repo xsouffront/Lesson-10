@@ -1,0 +1,9 @@
+print('-'*65)
+print('WELECOME TO THE SECRET SOCIETY, THE MOST LIT CLUB IN MIDTOWN NYC. BEFORE YOU CAN ENTER, I NEED YOU TO ANSWER ONE QUESTION....')
+print()
+AGE = input('WHAT IS YOUR AGE TODAY ? ')
+if AGE == 'x >= 21':
+	print('WELCOME TO THE COSA NOSTRA')
+else:
+	print('BEAT IT KID!')
+print('-'*65)
